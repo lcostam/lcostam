@@ -2,7 +2,9 @@
 
 ## 🚀 About Me
 
+
 👨‍ I am Leandro Miranda, a **Back End Developer** with over 15-years of hands-on experience. 
+
 
 🎓 I am Bachelor in **Information Technology** and **Master of Science** in Computational Modeling.
 
