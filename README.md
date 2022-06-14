@@ -1,5 +1,4 @@
-<p align="center"><img width=12.5% src="https://github.com/lcostam/lcostam/blob/main/media/logo.png"></p>
-<p align="center"><img width=60% src="https://github.com/lcostam/lcostam/blob/main/media/title.png"></p>
+<p align="center"><img src="https://github.com/lcostam/lcostam/blob/main/media/logo.png"></p>
 
 
 
