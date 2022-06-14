@@ -1,3 +1,6 @@
+<p align="center"><img width=12.5% src="https://github.com/lcostam/media/logo.png"></p>
+<p align="center"><img width=60% src="https://github.com/lcostam/media/title.png"></p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/lcostam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lcostam" height="30" width="40" /></a>
