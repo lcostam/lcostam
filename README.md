@@ -1,5 +1,7 @@
-<p align="center"><img width=12.5% src="https://github.com/lcostam/media/logo.png"></p>
-<p align="center"><img width=60% src="https://github.com/lcostam/media/title.png"></p>
+<p align="center"><img width=12.5% src="https://github.com/lcostam/lcostam/blob/main/media/logo.png"></p>
+<p align="center"><img width=60% src="https://github.com/lcostam/lcostam/blob/main/media/title.png"></p>
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
